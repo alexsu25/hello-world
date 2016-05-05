@@ -1,2 +1,3 @@
-# hello-world
-my first repository 
+#Alex Sutton
+
+This is my first github readme
